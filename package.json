@@ -1,0 +1,41 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "16.9.17",
+    "@types/react-dom": "16.9.4",
+    "bootstrap": "4.4.1",
+    "jquery": "3.4.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "popper.js": "1.16.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-icons": "^3.8.0",
+    "react-redux": "7.1.3",
+    "react-stepper-horizontal": "^1.0.11",
+    "reactstrap": "^8.2.0",
+    "redux": "4.0.5",
+    "redux-form": "8.2.6",
+    "redux-persist": "6.0.0",
+    "redux-thunk": "2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest",
+    "redux-form": "latest",
+    "redux": "latest",
+    "react-router-dom": "latest",
+    "react-stepper-horizontal": "latest",
+    "reactstrap": "latest",
+    "bootstrap": "latest",
+    "redux-thunk": "latest",
+    "redux-persist": "latest"
+  }
+}
